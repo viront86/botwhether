@@ -1,1 +1,1 @@
-Procfile.windows
+python botwhether.py
